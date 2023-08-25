@@ -89,18 +89,18 @@
         min-width:100%;
         height:60px;
         background-color:white;
-        place-content:center;
         font-size: 20px;
+        display: flex;
     }
     .navbar .leftnav{
        margin-right:20px;
     }
     .navbar .rightnav button {
-      padding:1px 3px;
+      padding:1px 2px;
         border:1px solid black;
         margin: 0px 2px;
         border-radius: 1px;
-        font-size:16px; 
+        font-size:14px; 
         background-color:white;
 
     }
@@ -123,19 +123,19 @@
 .container .main p {
     background-color: black;
     color:white;
-    font-size:24px;
-   font-weight:500;
-   padding:10px;
+    font-size:19px;
+   font-weight:900;
+   padding:10px 14px;
     border-radius:10px;
    margin-bottom: 35px;   
  font-family: 'Courier New', Courier, monospace;
 }
 .container .main button{
     color:black;
-    padding:6px 16px;
+    padding:6px 12px;
     padding-top:10px;
     border:2px solid black;
-    font-size: 20px;
+    font-size: 18px;
     background-color:transparent;
     border-radius: 15px;
     font-weight: 500;
